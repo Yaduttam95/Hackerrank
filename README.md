@@ -42,8 +42,8 @@ This repository consists of my achievements on HackerRank.
 ![C](/Prepares_and_Interview_prepration_kit/C.jpg)
 ![C++](/Prepares_and_Interview_prepration_kit/C++.jpg)
 ![C](/Prepares_and_Interview_prepration_kit/Java.jpg)
-![C](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
 ![C](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
+![C](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
 
 ## Tutorials
 ## Problems Solved
