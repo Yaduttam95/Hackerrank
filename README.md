@@ -39,7 +39,11 @@ This repository consists of my achievements on HackerRank.
 * [Certificates](#certificates)
 
 ## Prepares
-
+![C](/Prepares_and_Interview_prepration_kit/C.jpg)
+![C++](/Prepares_and_Interview_prepration_kit/C++.jpg)
+![C](/Prepares_and_Interview_prepration_kit/Java.jpg)
+![C](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
+![C](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
 
 ## Tutorials
 ## Problems Solved
