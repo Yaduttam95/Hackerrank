@@ -16,12 +16,16 @@ This repository consists of my achievements on HackerRank.
 [View Profile](https://www.hackerrank.com/Yaduttam95)
 
 ## HackerRank Badges
-
+![C](/Badges/C.png)
+![C++](/Badges/C++.png)
+![Problem Solving](/Badges/Problem_Solving.png)
+![Java](/Badges/Java.png)
+![10 Days Of JS](/Badges/10_Days_of_JS.png)
 
 
 
 ## HackerRank Certificates
-
+![Problem Solving(Basics)](/Badges/problem_solving_basic_skill.png)
 
 
 
@@ -30,8 +34,8 @@ This repository consists of my achievements on HackerRank.
 
 * [Practices](#practices)
 * [Tutorials](#tutorials)
-* [Interview Preparation Kit](#interview-preparation-kit)
-* [Problems Solved](#Problems-solved)
+* [Interview Preparation Kit](#interview)
+* [Problems Solved](#problems-solved)
 * [Certificates](#certificates)
 
 ## Practices
