@@ -50,7 +50,7 @@ This repository consists of my achievements on HackerRank.
 
 ## Problems Solved
 ## Certificates
-![Problem Solving(Basic)](/Skill Certificates/Problem Solving(basic).png)
+![Problem Solving(Basic)](/Skill_Certificates/Problem_Solving(basic).png)
 <p align="center">
     <a href="https://www.hackerrank.com/Yaduttam95">
         <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
