@@ -32,7 +32,7 @@ This repository consists of my achievements on HackerRank.
 
 ## Table Of Contents
 
-* [Practices](#practices)
+* [Prepares](#prepares)
 * [Tutorials](#tutorials)
 * [Interview Preparation Kit](#interview)
 * [Problems Solved](#problems-solved)
