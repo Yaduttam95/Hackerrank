@@ -41,16 +41,16 @@ This repository consists of my achievements on HackerRank.
 ## Prepares
 <!--![C](/Prepares_and_Interview_prepration_kit/C.jpg)-->
 ![C++](/Prepares_and_Interview_prepration_kit/C++.jpg)
-![C](/Prepares_and_Interview_prepration_kit/Java.jpg)
-![C](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
-![C](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
+![JAVA](/Prepares_and_Interview_prepration_kit/Java.jpg)
+![Problem Solving](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
+![Mathematics](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
 
 ## Tutorials
 ![10 Days Of JS](/Prepares_and_Interview_prepration_kit/10_days_of_JS.jpg)
 
 ## Problems Solved
 ## Certificates
-
+![Problem Solving(Basic)](/Skill Certificates/Problem Solving(basic).png)
 <p align="center">
     <a href="https://www.hackerrank.com/Yaduttam95">
         <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
