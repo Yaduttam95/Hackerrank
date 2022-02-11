@@ -8,8 +8,8 @@
 
 This repository consists of my achievements on HackerRank.
 
-[![GitHub Last commit](https://img.shields.io/github/last-commit/Yaduttam95/Hackerrank)](https:/Yaduttam95/Hackerrank/github.com//commits/master)
-[![GitHub Repo size](https://img.shields.io/github/repo-size/Yaduttam95/Hackerrank)](https://github.com/Yaduttam95/Hackerrank/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Yaduttam95/Hackerrank)](https:/Yaduttam95/Hackerrank/github.com//commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Yaduttam95/Hackerrank)](https://github.com/Yaduttam95/Hackerrank/archive/master.zip)
 
 ## Personal HackerRank Profile
 
