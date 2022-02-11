@@ -38,7 +38,9 @@ This repository consists of my achievements on HackerRank.
 * [Problems Solved](#problems-solved)
 * [Certificates](#certificates)
 
-## Practices
+## Prepares
+
+
 ## Tutorials
 ## Problems Solved
 ## Certificates
