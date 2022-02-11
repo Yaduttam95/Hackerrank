@@ -31,10 +31,12 @@ This repository consists of my achievements on HackerRank.
 * [Practices](#practices)
 * [Tutorials](#tutorials)
 * [Interview Preparation Kit](#interview-preparation-kit)
+* [Problems Solved](#Problems-solved)
 * [Certificates](#certificates)
 
 ## Practices
 ## Tutorials
+## Problems Solved
 ## Certificates
 
 <p align="center">
