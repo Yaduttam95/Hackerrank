@@ -153,15 +153,15 @@ This repository consists of my achievements on HackerRank.
 97.	Variadic functions in C
 98.	Printing Pattern Using Loops
 99.	Bitwise Operators
-100.Sum of Digits of a Five Digit Number
-101.For Loop in C
-102.Conditional Statements in C
-103.Pointers in C
-104.Functions in C
-105.Sum and Difference of Two Numbers
-106.Playing With Characters
-107."Hello World!" in C
-108.Solve Me First
+100. Sum of Digits of a Five Digit Number
+101. For Loop in C
+102. Conditional Statements in C
+103. Pointers in C
+104. Functions in C
+105. Sum and Difference of Two Numbers
+106. Playing With Characters
+107. "Hello World!" in C
+108. Solve Me First
 
 <p align="center">
     <a href="https://www.hackerrank.com/Yaduttam95">
