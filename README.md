@@ -54,6 +54,114 @@ This repository consists of my achievements on HackerRank.
 
 
 ## Problems Solved
+•	C++ Variadics
+•	Java Stdin and Stdout II
+•	Java If-Else
+•	Java Stdin and Stdout I
+•	Welcome to Java!
+•	Kitty's Calculations on a Tree
+•	Day 1: Let and Const
+•	Day 6: JavaScript Dates
+•	Day 1: Functions
+•	Day 3: Arrays
+•	Day 4: Count Objects
+•	Day 4: Create a Rectangle Object
+•	Day 2: Conditional Statements: Switch
+•	Day 2: Conditional Statements: If-Else
+•	Day 7: Regular Expressions III
+•	Day 9: Binary Calculator
+•	Day 8: Buttons Container
+•	Day 1: Arithmetic Operators
+•	Day 8: Create a Button
+•	Day 5: Inheritance
+•	Day 3: Throw
+•	Day 3: Try, Catch, and Finally
+•	Day 7: Regular Expressions I
+•	Day 2: Loops
+•	Day 0: Data Types
+•	Day 0: Hello, World!
+•	Jack goes to Rapture
+•	Organizing Containers of Balls
+•	The Hurdle Race
+•	Little Panda Power
+•	2D Array - DS
+•	Pointer
+•	Arrays Introduction
+•	Functions
+•	For Loop
+•	Conditional Statements
+•	Basic Data Types
+•	Between Two Sets
+•	Number Line Jumps
+•	Apple and Orange
+•	Grading Students
+•	Sherlock and Moving Tiles
+•	Restaurant
+•	Summing the N series
+•	nCr table
+•	Reverse Game
+•	K Candy Store
+•	Is Fibo
+•	Filling Jars
+•	Halloween party
+•	Die Hard 3
+•	Matrix Tracing
+•	Even Odd Query
+•	Sherlock and Permutations
+•	Find the Point
+•	String Similarity
+•	Build a Palindrome
+•	String Function Calculation
+•	Count Strings
+•	Morgan and a String
+•	Matrix Layer Rotation
+•	Picking Numbers
+•	Forming a Magic Square
+•	Cats and a Mouse
+•	Electronics Shop
+•	Time Conversion
+•	Birthday Cake Candles
+•	Mini-Max Sum
+•	Staircase
+•	Plus Minus
+•	Diagonal Difference
+•	A Very Big Sum
+•	Compare the Triplets
+•	Simple Array Sum
+•	Array Manipulation
+•	Minimum Swaps 2
+•	New Year Chaos
+•	Arrays: Left Rotation
+•	Repeated String
+•	Sales by Match
+•	Jumping on the Clouds
+•	Counting Valleys
+•	Sorting Array of Strings
+•	Permutations of Strings
+•	Structuring the Document
+•	Querying the Document
+•	Post Transition
+•	Boxes through a Tunnel
+•	Digit Frequency
+•	Small Triangles, Large Triangles
+•	Calculate the Nth term
+•	Dynamic Array in C
+•	Students Marks Sum
+•	Printing Tokens
+•	Array Reversal
+•	1D Arrays in C
+•	Variadic functions in C
+•	Printing Pattern Using Loops
+•	Bitwise Operators
+•	Sum of Digits of a Five Digit Number
+•	For Loop in C
+•	Conditional Statements in C
+•	Pointers in C
+•	Functions in C
+•	Sum and Difference of Two Numbers
+•	Playing With Characters
+•	"Hello World!" in C
+•	Solve Me First
 
 <p align="center">
     <a href="https://www.hackerrank.com/Yaduttam95">
