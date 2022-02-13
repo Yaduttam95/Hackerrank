@@ -46,7 +46,7 @@ This repository consists of my achievements on HackerRank.
 ![Mathematics](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
 
 ## Tutorials
-![10 Days Of JS](/Prepares_and_Interview_prepration_kit/10_days_of_JS.png)
+![10 Days Of JS](/Prepares_and_Interview_prepration_kit/10_days_of_JS.jpg)
 
 
 ## Certificates
