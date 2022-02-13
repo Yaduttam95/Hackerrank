@@ -16,12 +16,7 @@ This repository consists of my achievements on HackerRank.
 [View Profile](https://www.hackerrank.com/Yaduttam95)
 
 ## HackerRank Badges
-![C](/Badges/C.png)
-![C++](/Badges/C++.png)
-![Problem Solving](/Badges/Problem_Solving.png)
-![Java](/Badges/Java.png)
-![10 Days Of JS](/Badges/10_days_js_badge.png)
-
+!Badges](/Badges/Badges.png)
 
 
 ## HackerRank Certificates
