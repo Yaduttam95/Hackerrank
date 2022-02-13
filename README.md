@@ -16,7 +16,7 @@ This repository consists of my achievements on HackerRank.
 [View Profile](https://www.hackerrank.com/Yaduttam95)
 
 ## HackerRank Badges
-!Badges](/Badges/Badges.png)
+![Badges](/Badges/Badges.png)
 
 
 ## HackerRank Certificates
