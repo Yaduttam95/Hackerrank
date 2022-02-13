@@ -44,6 +44,7 @@ This repository consists of my achievements on HackerRank.
 ![JAVA](/Prepares_and_Interview_prepration_kit/Java.jpg)
 ![Problem Solving](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
 ![Mathematics](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
+![Interview Prepration Kit](/Prepares_and_Interview_prepration_kit/Interview_prepration.jpg)
 
 ## Tutorials
 ![10 Days Of JS](/Prepares_and_Interview_prepration_kit/10_days_of_JS.jpg)
