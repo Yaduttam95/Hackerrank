@@ -20,7 +20,7 @@ This repository consists of my achievements on HackerRank.
 ![C++](/Badges/C++.png)
 ![Problem Solving](/Badges/Problem_Solving.png)
 ![Java](/Badges/Java.png)
-![10 Days Of JS](/Badges/10_Days_of_JS.png)
+![10 Days Of JS](/Badges/10_days_of_js_badge.png)
 
 
 
