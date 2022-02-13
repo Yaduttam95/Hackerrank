@@ -54,114 +54,120 @@ This repository consists of my achievements on HackerRank.
 
 
 ## Problems Solved
-1.	C++ Variadics
-2.	Java Stdin and Stdout II
-3.	Java If-Else
-4.	Java Stdin and Stdout I
-5.	Welcome to Java!
-6.	Kitty's Calculations on a Tree
-7.	Day 1: Let and Const
-8.	Day 6: JavaScript Dates
-9.	Day 1: Functions
-10.	Day 3: Arrays
-11.	Day 4: Count Objects
-12.	Day 4: Create a Rectangle Object
-13.	Day 2: Conditional Statements: Switch
-14.	Day 2: Conditional Statements: If-Else
-15.	Day 7: Regular Expressions III
-16.	Day 9: Binary Calculator
-17.	Day 8: Buttons Container
-18.	Day 1: Arithmetic Operators
-19.	Day 8: Create a Button
-20.	Day 5: Inheritance
-21.	Day 3: Throw
-22.	Day 3: Try, Catch, and Finally
-23.	Day 7: Regular Expressions I
-24.	Day 2: Loops
-25.	Day 0: Data Types
-26.	Day 0: Hello, World!
-27.	Jack goes to Rapture
-28.	Organizing Containers of Balls
-29.	The Hurdle Race
-30.	Little Panda Power
-31.	2D Array - DS
-32.	Pointer
-33.	Arrays Introduction
-34.	Functions
-35.	For Loop
-36.	Conditional Statements
-37.	Basic Data Types
-38.	Between Two Sets
-39.	Number Line Jumps
-40.	Apple and Orange
-41.	Grading Students
-42.	Sherlock and Moving Tiles
-43.	Restaurant
-44.	Summing the N series
-45.	nCr table
-46.	Reverse Game
-47.	K Candy Store
-48.	Is Fibo
-49.	Filling Jars
-50.	Halloween party
-51.	Die Hard 3
-52.	Matrix Tracing
-53.	Even Odd Query
-54.	Sherlock and Permutations
-55.	Find the Point
-56.	String Similarity
-57.	Build a Palindrome
-58.	String Function Calculation
-59.	Count Strings
-60.	Morgan and a String
-61.	Matrix Layer Rotation
-62.	Picking Numbers
-63.	Forming a Magic Square
-64.	Cats and a Mouse
-65.	Electronics Shop
-66.	Time Conversion
-67.	Birthday Cake Candles
-68.	Mini-Max Sum
-69.	Staircase
-70.	Plus Minus
-71.	Diagonal Difference
-72.	A Very Big Sum
-73.	Compare the Triplets
-74.	Simple Array Sum
-75.	Array Manipulation
-76.	Minimum Swaps 2
-77.	New Year Chaos
-78.	Arrays: Left Rotation
-79.	Repeated String
-80.	Sales by Match
-81.	Jumping on the Clouds
-82.	Counting Valleys
-83.	Sorting Array of Strings
-84.	Permutations of Strings
-85.	Structuring the Document
-86.	Querying the Document
-87.	Post Transition
-88.	Boxes through a Tunnel
-89.	Digit Frequency
-90.	Small Triangles, Large Triangles
-91.	Calculate the Nth term
-92.	Dynamic Array in C
-93.	Students Marks Sum
-94.	Printing Tokens
-95.	Array Reversal
-96.	1D Arrays in C
-97.	Variadic functions in C
-98.	Printing Pattern Using Loops
-99.	Bitwise Operators
-100. Sum of Digits of a Five Digit Number
-101. For Loop in C
-102. Conditional Statements in C
-103. Pointers in C
-104. Functions in C
-105. Sum and Difference of Two Numbers
-106. Playing With Characters
-107. "Hello World!" in C
-108. Solve Me First
+1.	Day 5: Arrow Functions
+2.	Day 6: Bitwise Operators
+3.	Day 7: Regular Expressions II
+4.	Day 5: Template Literals
+5.	Day 4: Classes
+6.	C++ Variadics
+7.	Java Stdin and Stdout II
+8.	Java If-Else
+9.	Java Stdin and Stdout I
+10.	Welcome to Java!
+11.	Kitty's Calculations on a Tree
+12.	Day 1: Let and Const
+13.	Day 6: JavaScript Dates
+14.	Day 1: Functions
+15.	Day 3: Arrays
+16.	Day 4: Count Objects
+17.	Day 4: Create a Rectangle Object
+18.	Day 2: Conditional Statements: Switch
+19.	Day 2: Conditional Statements: If-Else
+20.	Day 7: Regular Expressions III
+21.	Day 9: Binary Calculator
+22.	Day 8: Buttons Container
+23.	Day 1: Arithmetic Operators
+24.	Day 8: Create a Button
+25.	Day 5: Inheritance
+26.	Day 3: Throw
+27.	Day 3: Try, Catch, and Finally
+28.	Day 7: Regular Expressions I
+29.	Day 2: Loops
+30.	Day 0: Data Types
+31.	Day 0: Hello, World!
+32.	Jack goes to Rapture
+33.	Organizing Containers of Balls
+34.	The Hurdle Race
+35.	Little Panda Power
+36.	2D Array - DS
+37.	Pointer
+38.	Arrays Introduction
+39.	Functions
+40.	For Loop
+41.	Conditional Statements
+42.	Basic Data Types
+43.	Between Two Sets
+44.	Number Line Jumps
+45.	Apple and Orange
+46.	Grading Students
+47.	Sherlock and Moving Tiles
+48.	Restaurant
+49.	Summing the N series
+50.	nCr table
+51.	Reverse Game
+52.	K Candy Store
+53.	Is Fibo
+54.	Filling Jars
+55.	Halloween party
+56.	Die Hard 3
+57.	Matrix Tracing
+58.	Even Odd Query
+59.	Sherlock and Permutations
+60.	Find the Point
+61.	String Similarity
+62.	Build a Palindrome
+63.	String Function Calculation
+64.	Count Strings
+65.	Morgan and a String
+66.	Matrix Layer Rotation
+67.	Picking Numbers
+68.	Forming a Magic Square
+69.	Cats and a Mouse
+70.	Electronics Shop
+71.	Time Conversion
+72.	Birthday Cake Candles
+73.	Mini-Max Sum
+74.	Staircase
+75.	Plus Minus
+76.	Diagonal Difference
+77.	A Very Big Sum
+78.	Compare the Triplets
+79.	Simple Array Sum
+80.	Array Manipulation
+81.	Minimum Swaps 2
+82.	New Year Chaos
+83.	Arrays: Left Rotation
+84.	Repeated String
+85.	Sales by Match
+86.	Jumping on the Clouds
+87.	Counting Valleys
+88.	Sorting Array of Strings
+89.	Permutations of Strings
+90.	Structuring the Document
+91.	Querying the Document
+92.	Post Transition
+93.	Boxes through a Tunnel
+94.	Digit Frequency
+95.	Small Triangles, Large Triangles
+96.	Calculate the Nth term
+97.	Dynamic Array in C
+98.	Students Marks Sum
+99.	Printing Tokens
+100. Array Reversal
+101. 1D Arrays in C
+102. Variadic functions in C
+103. Printing Pattern Using Loops
+104. Bitwise Operators
+105. Sum of Digits of a Five Digit Number
+106. For Loop in C
+107. Conditional Statements in C
+108. Pointers in C
+109. Functions in C
+110. Sum and Difference of Two Numbers
+111. Playing With Characters
+112. "Hello World!" in C
+113. Solve Me First
+
 
 <p align="center">
     <a href="https://www.hackerrank.com/Yaduttam95">
