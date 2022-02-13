@@ -27,14 +27,14 @@ This repository consists of my achievements on HackerRank.
 
 ## Table Of Contents
 
-* [Prepares](#prepares)
+<!--* [Prepares](#prepares)
 * [Tutorials](#tutorials)
-* [Interview Preparation Kit](#interview)
+* [Interview Preparation Kit](#interview)-->
 * [Certificates](#certificates)
 * [Problems Solved](#problems-solved)
 
-## Prepares
-<!--![C](/Prepares_and_Interview_prepration_kit/C.jpg)-->
+<!--## Prepares
+![C](/Prepares_and_Interview_prepration_kit/C.jpg)
 ![C++](/Prepares_and_Interview_prepration_kit/C++.jpg)
 ![JAVA](/Prepares_and_Interview_prepration_kit/Java.jpg)
 ![Problem Solving](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
@@ -43,7 +43,7 @@ This repository consists of my achievements on HackerRank.
 
 ## Tutorials
 ![10 Days Of JS](/Prepares_and_Interview_prepration_kit/10_days_of_JS.jpg)
-
+-->
 
 ## Certificates
 ![Problem Solving(Basic)](/Skill_Certificates/Problem_Solving(basic).png)
