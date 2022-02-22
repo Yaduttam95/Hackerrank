@@ -21,7 +21,6 @@ This repository consists of my achievements on HackerRank.
 
 ## HackerRank Certificates
 ![Problem Solving(Basics)](/Skill_Certificates/Certificate.jpg)
-
 ![Problem Solving(Basics)](/Badges/problem_solving_basic_skill.png)
 
 
