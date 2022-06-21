@@ -20,10 +20,10 @@ This repository consists of my achievements on HackerRank.
 
 
 ## HackerRank Certificates
-![Problem Solving(Basics)](/Skill_Certificates/Problem Solving(1).png)
-![Problem Solving(Basics)](/Badges/Problem Badge.png)
+![Problem Solving(Basics)](/Skill_Certificates/Problem_Solving(1).png)
+![Problem Solving(Basics)](/Badges/Problem_Badge.png)
 ![CSS](/Skill_Certificates/CSS(1).png)
-![CSS](/Badges/CSS Badge.png)
+![CSS](/Badges/CSS_Badge.png)
 
 
 
