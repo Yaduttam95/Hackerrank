@@ -13,15 +13,17 @@ This repository consists of my achievements on HackerRank.
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/Yaduttam95)
+[View Profile](https://www.hackerrank.com/yaduttampareek95?hr_r=1)
 
 ## HackerRank Badges
 ![Badges](/Badges/Badges.png)
 
 
 ## HackerRank Certificates
-![Problem Solving(Basics)](/Skill_Certificates/Certificate.jpg)
-![Problem Solving(Basics)](/Badges/problem_solving_basic_skill.png)
+![Problem Solving(Basics)](/Skill_Certificates/Problem Solving(1).png)
+![Problem Solving(Basics)](/Badges/Problem Badge.png)
+![CSS](/Skill_Certificates/CSS(1).png)
+![CSS](/Badges/CSS Badge.png)
 
 
 
@@ -48,6 +50,7 @@ This repository consists of my achievements on HackerRank.
 
 ## Certificates
 ![Problem Solving(Basic)](/Skill_Certificates/Problem_Solving(basic).png)
+![CSS](/Skill_Certificates/CSS.png)
 
 
 ## Problems Solved
