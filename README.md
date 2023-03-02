@@ -26,7 +26,8 @@ This repository consists of my achievements on HackerRank.
 ![JAVA(Basic)](/Badges/Java(Basic)_Badge.png)
 ![CSS](/Skill_Certificates/CSS(1).png)
 ![CSS](/Badges/CSS_Badge.png)
-
+![Problem Solving(Intermediate)](/Skill_Certificates/Problem_Inter_Solving(1).png)
+![Problem Solving(Intermediate)](/Badges/Problem_Inter_Badge.png)
 
 
 
@@ -55,6 +56,7 @@ This repository consists of my achievements on HackerRank.
 ![Problem Solving(Basic)](/Skill_Certificates/Problem_Solving(basic).png)
 ![JAVA(Basic)](/Skill_Certificates/Java(Basic).png)
 ![CSS](/Skill_Certificates/CSS.png)
+![Problem Solving(Intermediate)](/Skill_Certificates/Problem_Solving(Inter).png)
 
 
 ## Problems Solved
