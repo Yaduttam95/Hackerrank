@@ -1,3 +1,4 @@
+<!--150%-->
 <p align="center">
     <a href="https://www.hackerrank.com/yaduttampareek95">
         <img alt="HackerRank Logo | Yaduttam Pareek Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
@@ -40,17 +41,6 @@ This repository consists of my achievements on HackerRank.
 * [Certificates](#certificates)
 * [Problems Solved](#problems-solved)
 
-<!--## Prepares
-![C](/Prepares_and_Interview_prepration_kit/C.jpg)
-![C++](/Prepares_and_Interview_prepration_kit/C++.jpg)
-![JAVA](/Prepares_and_Interview_prepration_kit/Java.jpg)
-![Problem Solving](/Prepares_and_Interview_prepration_kit/Problem_Solving.jpg)
-![Mathematics](/Prepares_and_Interview_prepration_kit/Mathematics.jpg)
-![Interview Prepration Kit](/Prepares_and_Interview_prepration_kit/Interview_prepration.jpg)
-
-## Tutorials
-![10 Days Of JS](/Prepares_and_Interview_prepration_kit/10_days_of_JS.jpg)
--->
 
 ## Certificates
 ![Problem Solving(Basic)](/Skill_Certificates/Problem_Solving(basic).png)
