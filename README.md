@@ -42,7 +42,7 @@ This repository consists of my achievements on HackerRank.
 
 
 <p align="center">
-    <a href="https://www.hackerrank.com/Yaduttam95">
+    <a href="https://www.hackerrank.com/yaduttampareek95">
         <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
     </a>
 </p>
